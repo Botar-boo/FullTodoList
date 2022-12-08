@@ -1,0 +1,21 @@
+.todotask {
+    background: #FFDB80;
+    border-radius: 10px;
+    height: 30px;
+    width: 550px;
+    font-size: 18px;
+    color: #711818;
+}
+
+.todotxt {
+    position: relative;
+    left: 9px;
+    font-weight: bold;
+}
+
+.todoitm {;
+    position: relative;
+    margin: 10px;
+    left: 37px;
+    display: flex;
+}

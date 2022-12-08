@@ -1,0 +1,16 @@
+.trshbox {
+    margin: 6px;
+    display: flex;
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.trshbox:hover {
+    color:red;
+    transition: color 100ms linear;
+}

@@ -1,0 +1,48 @@
+.title {
+    display: flex;
+}
+
+.rectangle {
+    background: #F38C2D;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    right: 0px;
+    height: 200px;
+}
+
+.promo {
+    color: #EBFD18;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 32px;
+}
+
+.line {
+    background-color: #A49999;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 25px;
+    height: 5px;
+}
+
+.rights {
+    color: #282c34;
+    position: absolute;
+    bottom: 0px;
+    font-size: 12px;
+    left: 50px;
+}
+
+.signin {
+    position: absolute;
+    top: 25px;
+    right: 50px;
+}
+
+.todoblck {
+    position: absolute;
+    top: 50%;
+}

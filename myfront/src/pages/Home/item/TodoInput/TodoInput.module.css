@@ -1,0 +1,16 @@
+.crtfld {
+    position: absolute;
+    bottom: 10%;
+    left: 53px;
+}
+
+.crtinpt {
+    background: #FFDB80;
+    border-radius: 10px;
+    height: 30px;
+    width: 545px;
+    font-size: 18px;
+    color: #711818;
+    border: none;
+    padding: 0px 15px;
+}
